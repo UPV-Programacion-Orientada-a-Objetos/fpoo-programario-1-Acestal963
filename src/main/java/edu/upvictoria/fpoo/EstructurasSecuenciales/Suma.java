@@ -1,7 +1,6 @@
 package edu.upvictoria.fpoo.EstructurasSecuenciales;
 
 public class Suma {
-
     private int int_a, int_b;
     private float f_a, f_b;
     private double d_a, d_b;
@@ -21,6 +20,4 @@ public class Suma {
         this.d_b=b;
         return d_a+d_b;
     }
-
-
 }
