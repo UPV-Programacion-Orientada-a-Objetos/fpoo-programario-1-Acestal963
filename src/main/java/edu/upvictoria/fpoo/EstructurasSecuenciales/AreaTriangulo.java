@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 public class AreaTriangulo {
-    public double AreaTriangulo(double a, double b) throws IOException {
+    public double AreaTriangulo(double a, double b) {
         return ((a*b)/2);
     }
 }

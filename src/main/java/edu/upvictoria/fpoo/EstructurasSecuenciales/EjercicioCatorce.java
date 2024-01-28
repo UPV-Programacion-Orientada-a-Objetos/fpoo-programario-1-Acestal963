@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Calendar;
 
 public class EjercicioCatorce {
-    public  EjercicioCatorce()throws IOException {
+    public EjercicioCatorce()throws IOException {
 
         System.out.println("EJercicio 14: ");
         System.out.println("Una empresa que contrata personal requiere determinar la edad de las personas que\n" +
@@ -21,6 +21,5 @@ public class EjercicioCatorce {
         edad=Integer.parseInt(entrada);
         Edad edad1=new Edad();
         System.out.println("Su edad es: " +edad1.calcular(edad));
-
     }
 }
