@@ -1,7 +1,4 @@
 package edu.upvictoria.fpoo.EstructurasSecuenciales;
-
-
-
 import static java.lang.Math.sqrt;
 
 public class DistanciaPuntos {

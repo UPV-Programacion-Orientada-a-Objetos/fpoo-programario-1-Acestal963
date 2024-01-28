@@ -10,9 +10,9 @@ import static org.junit.Assert.*;
 public class AreaTrianguloTest {
     @Test
     public void areaTriangulo() throws IOException {
-        double a=2.3;
-        double b=4.5;
+        double a=2;
+        double b=4;
         AreaTriangulo area=new AreaTriangulo();
-       assertEquals(5.175,  area.AreaTriangulo(a,b));
+        assertEquals(16,  area.AreaTriangulo(a,b));
     }
 }

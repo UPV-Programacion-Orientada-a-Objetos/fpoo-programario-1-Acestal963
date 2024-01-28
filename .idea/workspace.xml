@@ -5,21 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AHORRO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/CONAGUA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EJercicioVeintidos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioVeinticinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioVeinticuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioVeintitres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioVeintiuno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/IVA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/MontoTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_Descuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AHORROTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaCIrcunferenciaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/DistanciaPuntosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EdadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/HipotenusaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/IVATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Litro_A_GalonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/MontoTotalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Mts_PgdasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Pesos_DolarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/PrecioLLmadaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_Rel_CanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_m2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/DistanciaPuntos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/DistanciaPuntos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_m2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_m2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaCIrcunferenciaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaCIrcunferenciaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaTrianguloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaTrianguloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/CostoFInalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/CostoFInalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +122,7 @@
       <workItem from="1706418420808" duration="1586000" />
       <workItem from="1706450827643" duration="284000" />
       <workItem from="1706451118789" duration="18476000" />
-      <workItem from="1706472545313" duration="1104000" />
+      <workItem from="1706472545313" duration="4488000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>
