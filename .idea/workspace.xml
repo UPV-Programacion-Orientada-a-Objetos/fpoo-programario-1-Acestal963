@@ -5,28 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaCIrcunferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaTriangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/DistanciaPuntos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioCuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDiez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioNueve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioOcho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioSeis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioSiete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicoCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Litro_A_Galon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Mts_Pgdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Promedio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/AreaTrianguloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/CostoFInal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioCatorce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDiecinueve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDieciocho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDieciseis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDiecisiete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioQUince.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioTrece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioVeinte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Hipotenusa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Pesos_Dolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/PrecioLLmada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_Rel_Can.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Precio_m2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Tiempo_Rel_Vel_Dis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/Suma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDoce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSecuenciales/EjercicioDoce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/SumaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EstructurasSecuenciales/SumaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit3 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="JUnit3 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -63,6 +61,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EjercicioUnoTest.test.executor&quot;: &quot;Run&quot;,
     &quot;Maven.programario_uno [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.programario_uno [compile].executor&quot;: &quot;Run&quot;,
     &quot;Maven.programario_uno [test].executor&quot;: &quot;Run&quot;,
@@ -70,7 +69,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -88,8 +87,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
       <recent name="junit.framework.TestCase" />
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="edu.upvictoria.fpoo.EstructurasSecuenciales" />
@@ -120,7 +119,10 @@
       <workItem from="1706299412668" duration="9935000" />
       <workItem from="1706367309321" duration="25000" />
       <workItem from="1706371776971" duration="16184000" />
-      <workItem from="1706397124288" duration="5118000" />
+      <workItem from="1706397124288" duration="9798000" />
+      <workItem from="1706418420808" duration="1586000" />
+      <workItem from="1706450827643" duration="284000" />
+      <workItem from="1706451118789" duration="7473000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>

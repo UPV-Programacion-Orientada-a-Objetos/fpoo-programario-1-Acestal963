@@ -13,11 +13,21 @@ public class Main {
         // EjercicioTres tres= new EjercicioTres();
         //EjercicioCuatro cuatro=new EjercicioCuatro();
         //EjercicoCinco cinco=new EjercicoCinco();
-        //EjercicioSeis seis=new EjercicioSeis();
+        //EjercicioSeis seis=new EjtimepoercicioSeis();
         //EjercicioSiete siete= new EjercicioSiete();
         //EjercicioOcho ocho= new EjercicioOcho();
         //EjercicioNueve nueve=new EjercicioNueve();
         //EjercicioDiez diez= new EjercicioDiez();
-        EjercicioOnce once=new EjercicioOnce();
+        //EjercicioOnce once=new EjercicioOnce();
+        //EjercicioDoce doce=new EjercicioDoce();
+        //EjercicioTrece trece=new EjercicioTrece();
+        //EjercicioCatorce catorce=new EjercicioCatorce();
+        //EjercicioQUince quince=new EjercicioQUince();
+        //EjercicioDieciseis dieciseis=new EjercicioDieciseis();
+        //EjercicioDiecisiete diecisiete=new EjercicioDiecisiete();
+        //EjercicioDieciocho dieciocho=new EjercicioDieciocho();
+       // EjercicioDiecinueve diecinueve=new EjercicioDiecinueve();
+         EjercicioVeinte veinte=new EjercicioVeinte();
+
     }
 }
