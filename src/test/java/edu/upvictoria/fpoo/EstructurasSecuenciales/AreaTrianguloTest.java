@@ -13,6 +13,6 @@ public class AreaTrianguloTest {
         double a=2.3;
         double b=4.5;
         AreaTriangulo area=new AreaTriangulo();
-        area.AreaTriangulo(a,b);
+       assertEquals(5.175,  area.AreaTriangulo(a,b));
     }
 }
